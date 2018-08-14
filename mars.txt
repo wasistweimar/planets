@@ -1,5 +1,6 @@
 Mars is the red planet.
 Dracula likes it, apparently.
 I feel there's not enough oxygen.
-my head hurts, I think it's because lack of oxigen
+my head hurts, I think it's because lack of oxygen 
 here's a new line
+nope, it's not lack of oxygen, it's too much Unix. 
